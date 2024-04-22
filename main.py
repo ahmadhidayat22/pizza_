@@ -6,16 +6,6 @@ locale.setlocale( locale.LC_ALL, '' )
 
 table = PrettyTable()
 table_addon = PrettyTable()
-# pizza = {
-#     "Splitza" : 103000,
-#     "Frankrurter BBQ" : 40000,
-#     "Cheeseburger" : 42000,
-#     "Meat Monsta" : 45000,
-#     "Super Supreme" : 53000,
-#     "Meat Lovers" : 43000,
-#     "Pepperoni" : 44000,
-    
-# }
 
 pizza = [
     ["splitza",103000],
